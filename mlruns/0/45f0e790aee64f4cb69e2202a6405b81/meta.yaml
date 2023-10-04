@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearning/ml/projectmlops/mlopsproject/mlruns/0/45f0e790aee64f4cb69e2202a6405b81/artifacts
+end_time: 1696393524005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f0e790aee64f4cb69e2202a6405b81
+run_name: unequaled-trout-898
+run_uuid: 45f0e790aee64f4cb69e2202a6405b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696393521438
+status: 3
+tags: []
+user_id: User

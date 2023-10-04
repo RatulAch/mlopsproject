@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearning/ml/projectmlops/mlopsproject/mlruns/0/a320f4a189274997a6f50028a5763871/artifacts
+end_time: 1696392887319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a320f4a189274997a6f50028a5763871
+run_name: able-fish-34
+run_uuid: a320f4a189274997a6f50028a5763871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696392884573
+status: 3
+tags: []
+user_id: User
